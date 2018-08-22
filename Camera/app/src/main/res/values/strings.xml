@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Onion Recorder</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="description_info">Info</string>
+    <string name="permission_request">This sample needs permission for camera and audio recording.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample is developed by Gaurav,Amit,Hemant and Ankit. It uses Camera2 API and OpenCv Libraries for implenting a consistent video recorder.
+
+
+        ]]>
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="modify_image">Modify</string>
+    <string name="view_original">View Original</string>
+    <string name="preference_file_key">preference_file_key</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>
